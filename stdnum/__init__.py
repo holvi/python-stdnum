@@ -128,4 +128,4 @@ parsing, validation, formatting or conversion functions.
 
 
 # the version number of the library
-__version__ = '1.0'
+__version__ = '1.0.post0.dev1'
